@@ -6,7 +6,7 @@
 (function() {
 	var EasyCheck = EasyCheck || {};
 	//区域
-	EasyCheck.areas=BEE_AREAS||{};
+	EasyCheck.areas= AREAS||{};
 	//手机相关的校验
 	EasyCheck.PhoneUtils = {
 		regexs: {
