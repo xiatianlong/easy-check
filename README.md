@@ -214,14 +214,14 @@ EasyCheck.IdCardUtils.getCurrentTime();
 
 ```
 //demo
-Bee.DateUtils.formt(new Date(),'yyyy-MM-dd hh(HH):mm:ss.S a k K E D F w W z Z');
+EasyCheck.DateUtils.formt(new Date(),'yyyy-MM-dd hh(HH):mm:ss.S a k K E D F w W z Z');
 ```
 ```
 2017-09-01 04(16):37:25.246 下午 16 4 五 244 0 35 1 GMT +0800
 ```
 ```
 //demo
-Bee.DateUtils.formt(new Date(),'yyyy年MM月dd日  a hh(HH)时mm分ss秒S毫秒 星期E 今年的第D天  这个月的第W周 今年的第w周');
+EasyCheck.DateUtils.formt(new Date(),'yyyy年MM月dd日  a hh(HH)时mm分ss秒S毫秒 星期E 今年的第D天  这个月的第W周 今年的第w周');
 ```
 ```
 2017年09月01日  下午 05(17)时07分14秒678毫秒 星期五 今年的第244天  这个月的第1周 今年的第35周
