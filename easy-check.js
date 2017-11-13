@@ -271,10 +271,6 @@
 		}
 
 	};
-	//ObjectUtils命名空间
-	EasyCheck.ObjectUtils = {
-
-	};
 	//身份证校验
 	EasyCheck.IdCardUtils = {			
 		regex: {
